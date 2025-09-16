@@ -46,7 +46,7 @@ onPullDownRefresh(() => {
 		
 .video-container {
   width: 100%;
-   height: 90vh;       /* 父容器宽度占满屏幕 */
+   height: 100vh;       /* 父容器宽度占满屏幕 */
   display: flex; /* 开启Flex布局 */
   justify-content: center; /* 子元素水平居中 */
   align-items: center; /* 子元素垂直居中 */
