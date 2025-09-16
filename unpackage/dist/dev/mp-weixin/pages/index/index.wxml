@@ -1,0 +1,1 @@
+<view class="video-container data-v-1cf27b2a"><video wx:if="{{a}}" class="data-v-1cf27b2a" src="{{b}}" object-fit="contain" muted autoplay="false" loop id="myVideo"></video><view wx:else class="data-v-1cf27b2a">视频加载中...</view></view>
